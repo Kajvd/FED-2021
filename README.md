@@ -40,7 +40,7 @@ link naar de website die je gaat namaken óf de naam/omschrijving van je eigen o
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/WebsiteLandingPage.png" width="375px" alt="Dit is de langing page van de website">
+<img src="images/WebsiteLandingpage.png" width="375px" alt="Dit is de langing page van de website">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
