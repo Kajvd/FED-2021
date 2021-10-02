@@ -22,7 +22,7 @@ Kaj van Duijn
 Blauw
  
 #### Je focus:
-Minder Divs gebruiken, meer met flexbox spelen ipv grids en responsiveness goed kunnen uitwerken 
+Minder Divs gebruiken, meer met flexbox spelen ipv grids en beter met media query's kunnen werken 
 </details>
 
 
@@ -35,14 +35,14 @@ Minder Divs gebruiken, meer met flexbox spelen ipv grids en responsiveness goed 
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+Ik ga de website van finntheduck.com uitwerken, deze is in shopfy gemaakt en maakt het voor mij dus extra een uitdaging om het goed in html en css na te maken. 
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+Home pagina van finntheduck.com
 <img src="images/WebsiteLandingpage.png" width="375px" alt="Dit is de langing page van de website">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+Contact pagina van finntheduck.com
 <img src="images/WebsiteAbout.png" width="375px" alt="Dit is de about page van de website">
  
 </details>
@@ -57,7 +57,7 @@ hier de naam van de pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/.jpg" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
