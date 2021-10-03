@@ -35,14 +35,14 @@ Minder Divs gebruiken, meer met flexbox spelen ipv grids en beter met media quer
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-Ik ga de website van finntheduck.com uitwerken, deze is in shopfy gemaakt en maakt het voor mij dus extra een uitdaging om het goed in html en css na te maken. 
+#### Ik ga de website van finntheduck.com uitwerken, deze is in shopfy gemaakt en maakt het voor mij dus extra een uitdaging om het goed in html en css na te maken. 
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Home pagina van finntheduck.com
 <img src="images/WebsiteLandingpage.png" width="375px" alt="Dit is de langing page van de website">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Contact pagina van finntheduck.com
+#### Contact pagina van finntheduck.com
 <img src="images/WebsiteAbout.png" width="375px" alt="Dit is de about page van de website">
  
 </details>
@@ -56,14 +56,17 @@ Contact pagina van finntheduck.com
 <details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
-### de hele pagina: 
-<img src="images/.jpg" width="375px" alt="breakdown van de hele pagina">
+### de hele eerste pagina: 
+<img src="images/breakdownschets.png" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/breakdownschets3.png" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+ 
+ ### de hele tweede pagina: 
+<img src="images/breakdownschets2.png" width="375px" alt="breakdown van de hele pagina">
 
 </details>
 
@@ -77,7 +80,7 @@ Contact pagina van finntheduck.com
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+De eerste pagina van de iphone 5 / se maken ging makkelijk en snel, had alleen wat moeite met de afbeeldingen die de orginele website gebruikt te verkrijgen. Het moeilijkste was om de instagram feed goed te krijgen, dit gebruikt namelijk een 2x2 grid met 4 afbeeldingen. Ik heb dat nog nooit gedaan maar na een aantal dingen proberen met width en height was het snel opgelost. 
 
 
 ### Agenda voor meeting
