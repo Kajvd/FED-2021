@@ -39,6 +39,7 @@ Minder Divs gebruiken, meer met flexbox spelen ipv grids en beter met media quer
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Home pagina van finntheduck.com
+
 <img src="images/WebsiteLandingpage.png" width="375px" alt="Dit is de langing page van de website">
 
 #### Screenshot(s) van de tweede pagina (small screen):
@@ -79,15 +80,12 @@ Home pagina van finntheduck.com
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-De eerste pagina van de iphone 5 / se maken ging makkelijk en snel, 
- 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina"> 
+De eerste pagina van de iphone 5 / se maken ging makkelijk en snel,had alleen wat moeite met de afbeeldingen die de orginele website gebruikt te verkrijgen.
+Het moeilijkste was om de instagram feed goed te krijgen, dit gebruikt namelijk een 2x2 grid met 4 afbeeldingen. Ik heb dat nog nooit gedaan maar na een aantal dingen proberen met width en height was het snel opgelost. 
 
-had alleen wat moeite met de afbeeldingen die de orginele website gebruikt te verkrijgen. Het moeilijkste was om de instagram feed goed te krijgen, dit gebruikt namelijk een 2x2 grid met 4 afbeeldingen. Ik heb dat nog nooit gedaan maar na een aantal dingen proberen met width en height was het snel opgelost. 
+ <img src="images/instagram.png" width="375px" alt="">
 
- <img src="images/instagram.png" width="375px" alt="breakdown van nog een dynamisch deel">
-
-<img src="images/instagramcss.png" width="375px" alt="breakdown van nog een dynamisch deel">
+<img src="images/instagramcss.png" width="375px" alt="">
 
  In de eerste week was dus al de eerste pagina zo goed als af, samen met de styling.
 
@@ -122,7 +120,8 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-In de derde week heb ik al zo goed als alles uitgewerkt wat "makkelijk" te maken is op een website, nu moet ik nog een carousel toevoegen voor de quotes om aan mijn Javascript microinteractie te voldoen. 
+In de derde week heb ik al zo goed als alles uitgewerkt wat "makkelijk" te maken is op een website, nu moet ik nog een carousel toevoegen voor de quotes om aan mijn Javascript microinteractie te voldoen en met media query's alles goed krijgen zodat het responsive is.
+Ik heb niet echt problemen gehad tot nu toe, het was even weer lastig met het formulier omdat ik dat nooit gebruik, maar na even puzzelen ben ik er wel uit gekomen. 
 
 
 ### Agenda voor meeting
@@ -155,31 +154,49 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
+Bij 1024px en 1920px breedte is het menu nog steeds een hamburger, dit kan beter veranderd worden naar een "normaal" menu. 
+
+De specificaties blijven onder elkaar staan bij het grote scherm, dit kan ook naast elkaar zodat het in een keer te zien is.
+ 
+De shipping en retour informatie in het bruine vlak kan ook in plaats van onder elkaar naast elkaar als een soort banner. 
+ 
+Alt tekst toevoegen voor de afbeeldingen
+ 
+Linkjes naar paginas toevoegen, nu zijn er twee schermen maar geen verbindingen tussen de twee. 
 
 #### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+Bij 1024px en 1920px breedte is het menu nog steeds een hamburger, dit kan beter veranderd worden naar een "normaal" menu.
+
+<img src="images/menupagina.png" width="375px" alt="">
+
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
+ Ik kan hier beter een normaal menu hebben zodat de gebruiker alle mogelijkheden direct ziet. 
 
 #### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+De specificaties blijven onder elkaar staan bij het grote scherm, dit kan ook naast elkaar zodat het in een keer te zien is. 
 
+<img src="images/specspagina.png" width="375px" alt="">
+ 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+ 
+Ik kan de specs ipv centeren naast elkaar zetten zodat ze alle drie tegelijk te zien zijn.
 
 
 #### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+De shipping en retour informatie in het bruine vlak kan ook in plaats van onder elkaar naast elkaar als een soort banner.
+ 
+<img src="images/shippingpagina.png" width="375px" alt="">
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Ik kan een andere afbeelding op deze plek zetten die horizontaal informatie deelt ipv verticaal (met indien nodig een afbeelding)
 
 
 #### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Linkjes naar paginas toevoegen, nu zijn er twee schermen maar geen verbindingen tussen de twee.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
+href invullen bij de <a> zodat er links zijn tussen de pagina's
+ 
 </details>
 
 
