@@ -289,8 +289,8 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. Carousel, deels van Frontend for Designers 
+2. Sidebar navigatie deels https://youtu.be/MxW0dv5W7Ds 
+3. Afbeeldingen - Finntheduck.com
 
 </details>
