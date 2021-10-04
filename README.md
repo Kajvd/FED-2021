@@ -79,8 +79,11 @@ Home pagina van finntheduck.com
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-De eerste pagina van de iphone 5 / se maken ging makkelijk en snel, <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina"> 
-had alleen wat moeite met de afbeeldingen die de orginele website gebruikt te verkrijgen. Het moeilijkste was om de instagram feed goed te krijgen, dit gebruikt namelijk een 2x2 grid met 4 afbeeldingen. Ik heb dat nog nooit gedaan maar na een aantal dingen proberen met width en height was het snel opgelost. <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+De eerste pagina van de iphone 5 / se maken ging makkelijk en snel, 
+<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina"> 
+had alleen wat moeite met de afbeeldingen die de orginele website gebruikt te verkrijgen. Het moeilijkste was om de instagram feed goed te krijgen, dit gebruikt namelijk een 2x2 grid met 4 afbeeldingen. Ik heb dat nog nooit gedaan maar na een aantal dingen proberen met width en height was het snel opgelost. 
+<img src="images/instagram.png" width="375px" alt="breakdown van nog een dynamisch deel">
+<img src="images/instagramcss.png" width="375px" alt="breakdown van nog een dynamisch deel">
  In de eerste week was dus al de eerste pagina zo goed als af, samen met de styling.
 
 
@@ -97,7 +100,7 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
+- Hoe met media-query's werken? min-width of max-width gebruiken? -> min-width
 - punt 2
 - nog een punt
 - ...
