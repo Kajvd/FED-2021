@@ -258,23 +258,23 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 
 ### Screenshot(s)
 
- <img src="images/websiteIphoneSE.png" width="375px" alt="">
+ <img src="images/websiteIphoneSE.png" width="375px" alt="IphoneSE">
 
  
  
-  <img src="images/websiteIphonePlus.png" width="375px" alt="">
+  <img src="images/websiteIphonePlus.png" width="375px" alt="IphonePlus">
 
  
  
-  <img src="images/websiteIpad.png" width="375px" alt="">
+  <img src="images/websiteIpad.png" width="375px" alt="Ipad">
 
 
  
-  <img src="images/websiteIpadPro.png" width="375px" alt="">
+  <img src="images/websiteIpadPro.png" width="375px" alt="IpadPro">
 
  
  
-  <img src="images/website.png" width="375px" alt="">
+  <img src="images/website.png" width="375px" alt="1920 x 1080">
 
 </details>
 
