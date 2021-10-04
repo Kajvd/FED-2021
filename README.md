@@ -63,7 +63,6 @@ Home pagina van finntheduck.com
 <img src="images/breakdownschets3.png" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
  
  ### de hele tweede pagina: 
 <img src="images/breakdownschets2.png" width="375px" alt="breakdown van de hele pagina">
@@ -80,7 +79,9 @@ Home pagina van finntheduck.com
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-De eerste pagina van de iphone 5 / se maken ging makkelijk en snel, had alleen wat moeite met de afbeeldingen die de orginele website gebruikt te verkrijgen. Het moeilijkste was om de instagram feed goed te krijgen, dit gebruikt namelijk een 2x2 grid met 4 afbeeldingen. Ik heb dat nog nooit gedaan maar na een aantal dingen proberen met width en height was het snel opgelost. 
+De eerste pagina van de iphone 5 / se maken ging makkelijk en snel, <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina"> 
+had alleen wat moeite met de afbeeldingen die de orginele website gebruikt te verkrijgen. Het moeilijkste was om de instagram feed goed te krijgen, dit gebruikt namelijk een 2x2 grid met 4 afbeeldingen. Ik heb dat nog nooit gedaan maar na een aantal dingen proberen met width en height was het snel opgelost. <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+ In de eerste week was dus al de eerste pagina zo goed als af, samen met de styling.
 
 
 ### Agenda voor meeting
@@ -113,7 +114,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+In de derde week heb ik al zo goed als alles uitgewerkt wat "makkelijk" te maken is op een website, nu moet ik nog een carousel toevoegen voor de quotes om aan mijn Javascript microinteractie te voldoen. 
 
 
 ### Agenda voor meeting
