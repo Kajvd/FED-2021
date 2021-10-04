@@ -77,7 +77,7 @@ Home pagina van finntheduck.com
 ## Voortgang 1 (week 2)
 
 <details>
-<summary>uitwerken voor 1e voortgang</summary>
+<summary>Iphone SE versie deels uitgewerkt voor beide pagina's</summary>
 
 ### Stand van zaken
 De eerste pagina van de iphone 5 / se maken ging makkelijk en snel,had alleen wat moeite met de afbeeldingen die de orginele website gebruikt te verkrijgen.
@@ -117,7 +117,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Voortgang 2 (week 3)
 
 <details>
-<summary>uitwerken voor 2e voortgang</summary>
+<summary>Iphone SE versie voor beide pagina's zijn klaar</summary>
 
 ### Stand van zaken
 In de derde week heb ik al zo goed als alles uitgewerkt wat "makkelijk" te maken is op een website, nu moet ik nog een carousel toevoegen voor de quotes om aan mijn Javascript microinteractie te voldoen en met media query's alles goed krijgen zodat het responsive is.
@@ -153,7 +153,8 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <details>
 <summary>uitwerken na test in 8e voortgang</summary>
 
-### Bevindingen
+### Bevindingen met oud klasgenoten 
+ 
 Bij 1024px en 1920px breedte is het menu nog steeds een hamburger, dit kan beter veranderd worden naar een "normaal" menu. 
 
 De specificaties blijven onder elkaar staan bij het grote scherm, dit kan ook naast elkaar zodat het in een keer te zien is.
@@ -164,26 +165,38 @@ Alt tekst toevoegen voor de afbeeldingen
  
 Linkjes naar paginas toevoegen, nu zijn er twee schermen maar geen verbindingen tussen de twee. 
 
+ 
+ 
+ 
+ 
+ 
 #### Titel eerste bevinding
 Bij 1024px en 1920px breedte is het menu nog steeds een hamburger, dit kan beter veranderd worden naar een "normaal" menu.
 
 <img src="images/menupagina.png" width="375px" alt="">
 
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
  Ik kan hier beter een normaal menu hebben zodat de gebruiker alle mogelijkheden direct ziet. 
 
+ 
+ 
+ 
+ 
+ 
 #### Titel tweede bevinding. 
 De specificaties blijven onder elkaar staan bij het grote scherm, dit kan ook naast elkaar zodat het in een keer te zien is. 
 
 <img src="images/specspagina.png" width="375px" alt="">
  
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
  
 Ik kan de specs ipv centeren naast elkaar zetten zodat ze alle drie tegelijk te zien zijn.
 
 
+ 
+ 
+ 
+ 
 #### Titel volgende bevinding. 
 De shipping en retour informatie in het bruine vlak kan ook in plaats van onder elkaar naast elkaar als een soort banner.
  
@@ -206,11 +219,10 @@ href invullen bij de <a> zodat er links zijn tussen de pagina's
 ## Voortgang 3 (week 4)
 
 <details>
-<summary>uitwerken voor 3e voortgang</summary>
+<summary>Ik heb de website voor beide pagina's responsive gemaakt, JS toegevoegd door middel van een carousel en alle bevindingen aangepast die we vorige week hadden bevonden.</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Ik heb nu alle bevindingen opgelost, ook heb ik het javascript gedeelte erin kunnen krijgen en alles responsive kunnen maken. Het javascript was niet al te moeilijk omdat ik Frontend for Designers heb gevolgd en daar veel met Sanne aan Javascript moest werken. De carousel was hier niet echt een uitdaging door omdat dit simpele functions waren. 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
@@ -239,14 +251,30 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Eindgesprek (week 5)
 
 <details>
-<summary>uitwerken voor eindgesprek</summary>
+<summary>Ik was hier eigenlijk al zo goed als klaar voor, maandag 4 oktober heb ik nog even wat code opgeschoond en de laatste beetjes commentaar toegevoegd</summary>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+ <img src="images/websiteIphoneSE.png" width="375px" alt="">
+
+ 
+ 
+  <img src="images/websiteIphonePlus.png" width="375px" alt="">
+
+ 
+ 
+  <img src="images/websiteIpad.png" width="375px" alt="">
+
+
+ 
+  <img src="images/websiteIpadPro.png" width="375px" alt="">
+
+ 
+ 
+  <img src="images/website.png" width="375px" alt="">
 
 </details>
 
