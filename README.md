@@ -280,6 +280,130 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ## Breakdownschets (week 6)
+
+<details>
+<summary>...</summary>
+
+### de hele eerste pagina: 
+<img src="images/breakdownschets.png" width="375px" alt="breakdown van de hele pagina">
+
+### dynamisch deel (bijv menu): 
+<img src="images/breakdownschets3.png" width="375px" alt="breakdown van een dynamisch deel">
+
+### wellicht nog een dynamisch deel (bijv filter): 
+ 
+ ### de hele tweede pagina: 
+<img src="images/breakdownschets2.png" width="375px" alt="breakdown van de hele pagina">
+
+</details>
+
+
+
+
+
+## Voortgang 1 (week 7)
+
+<details>
+<summary>...</summary>
+
+### Stand van zaken
+...
+
+ <img src="images/instagram.png" width="375px" alt="">
+
+<img src="images/instagramcss.png" width="375px" alt="">
+
+ In de eerste week was dus al de eerste pagina zo goed als af, samen met de styling.
+
+
+</details>
+ 
+ 
+ ## Voortgang 1 (week 8)
+
+<details>
+<summary>...</summary>
+
+### Stand van zaken
+...
+
+ <img src="images/instagram.png" width="375px" alt="">
+
+<img src="images/instagramcss.png" width="375px" alt="">
+
+ In de eerste week was dus al de eerste pagina zo goed als af, samen met de styling.
+
+
+</details>
+ 
+ 
+ 
+ ## Voortgang 1 (week 9)
+
+<details>
+<summary>...</summary>
+
+### Stand van zaken
+...
+
+ <img src="images/instagram.png" width="375px" alt="">
+
+<img src="images/instagramcss.png" width="375px" alt="">
+
+ In de eerste week was dus al de eerste pagina zo goed als af, samen met de styling.
+
+
+</details>
+ 
+ 
+ 
+ ## Eindgesprek (week 10)
+
+<details>
+<summary>...</summary>
+
+### Stand van zaken
+hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+### Screenshot(s)
+
+ <img src="images/websiteIphoneSE.png" width="375px" alt="IphoneSE">
+
+ 
+ 
+  <img src="images/websiteIphonePlus.png" width="375px" alt="IphonePlus">
+
+ 
+ 
+  <img src="images/websiteIpad.png" width="375px" alt="Ipad">
+
+
+ 
+  <img src="images/websiteIpadPro.png" width="375px" alt="IpadPro">
+
+ 
+ 
+  <img src="images/website.png" width="375px" alt="1920 x 1080">
+
+</details>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 ## Bronnenlijst
