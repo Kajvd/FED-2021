@@ -312,7 +312,7 @@ Home pagina van Spotify, waar je een account kan maken en de spotify applicatie 
 
 #### Screenshot(s) van de tweede pagina (small screen):
 #### Premium pagina van Spotify, waar alle soorten abonnementen van hun staan met beschrijving aan features en kosten.
-<img src="images/spotifyweb2.jpg" width="375px" alt="Dit is de "Premium" page van de website">
+<img src="images/spotifyweb2.jpg" width="375px" alt="Dit is de Premium page van de website">
  
 </details>
  
