@@ -293,15 +293,15 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 <summary>...</summary>
 
 ### de hele eerste pagina: 
-<img src="images/breakdownschets.png" width="375px" alt="breakdown van de hele pagina">
+<img src="images/breakdownschetsv2.png" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/breakdownschets3.png" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/breakdownschets2v2.png" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
  
  ### de hele tweede pagina: 
-<img src="images/breakdownschets2.png" width="375px" alt="breakdown van de hele pagina">
+<img src="images/breakdownschets3v2.png" width="375px" alt="breakdown van de hele pagina">
 
 </details>
 
@@ -312,16 +312,14 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ## Voortgang 1 (week 7)
 
 <details>
-<summary>...</summary>
+<summary> Ik heb alle stof nog eens doorgenomen en zowel de eerste als de tweede pagina afgemaakt</summary>
 
 ### Stand van zaken
-...
+De eerste 2 dagen heb ik alle stof nog eens doorgenomen die online stond, ik heb geleerd wat je met flexbox kan doen en hoe je het goed kunt gebruiken. Verder heb ik vooral geprobeerd alles zo goed mogelijk te maken zoals op de echte Spotify website. Deze week heb ik ook aan Vasilis gevraagd of het mogelijk is om een feedback gesprek te houden de volgende week waar ik ga kijken of mijn "basis" code al goed genoeg is.
 
  <img src="images/instagram.png" width="375px" alt="">
 
 <img src="images/instagramcss.png" width="375px" alt="">
-
- In de eerste week was dus al de eerste pagina zo goed als af, samen met de styling.
 
 
 </details>
@@ -330,10 +328,24 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
  ## Voortgang 1 (week 8)
 
 <details>
-<summary>...</summary>
+<summary>Deze week heb ik een feedback gesprek met Vasilis en maak ik de website verder af.</summary>
 
 ### Stand van zaken
-...
+Woensdag van deze week heb ik het feedback gesprek met Vasilis, ik had moeite met wachten dus toen het feedback gesprek er was had ik ook al vast de eerste pagina responsive gemaakt. Toen het feedbackgesprek er was heb ik de website laten zien via Github pages en heb ik de volgende feedback gekregen: 
+- Hover state moet gestijld worden
+- Classes kunnen verminderd worden
+- nth-of-type gebruiken, dus: nav li a:nth-of-type(2)
+- 2de pagina een class geven is logisch
+- Vanaf het begin netjes werken
+- Commentaar toevoegen
+ 
+ Direct na de feedback heb ik alle classes die ik kon veranderen met nth-of-type meteen veranderd. Dit zorgde voor minder onduidelijkheid en zorgde voor structuur in het css document. De dag erop ben ik begonnen met het responsive maken van de 2de pagina. Dit was binnen een uurtje of twee gedaan zonder al te veel moeilijkheden. De laatste dag van de week begon ik met de hover states toevoegen, dit was ook snel gedaan. 
+ 
+Ik heb er voor geprobeerd te zorgen dat wanneer er over de button van een van de 4 keuzes uit abonnementen werd gehovered dat de container daarvan een groene gloed kreeg in plaats van de normale zwarte schaduw. Dit lukte mij echter niet. 
+ 
+ https://stackoverflow.com/questions/6910049/on-a-css-hover-event-can-i-change-another-divs-styling
+ 
+ Ik heb hier veel naar gezocht en alles komt ongeveer neer op op wat er in de bovenstaande link word gezegd. Om een of andere reden wilt dit bij mij niet lukken, waardoor ik het heb laten vallen. 
 
  <img src="images/instagram.png" width="375px" alt="">
 
@@ -354,9 +366,6 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Stand van zaken
 ...
 
- <img src="images/instagram.png" width="375px" alt="">
-
-<img src="images/instagramcss.png" width="375px" alt="">
 
  In de eerste week was dus al de eerste pagina zo goed als af, samen met de styling.
 
