@@ -308,11 +308,11 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 #### Screenshot(s) van de eerste pagina (small screen): 
 Home pagina van Spotify, waar je een account kan maken en de spotify applicatie kan opstarten en downloaden.
 
-<img src="images/spotifyweb1.png" width="375px" alt="Dit is de langing page van de website">
+<img src="images/spotifyweb1.jpg" width="375px" alt="Dit is de landing page van de website">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 #### Premium pagina van Spotify, waar alle soorten abonnementen van hun staan met beschrijving aan features en kosten.
-<img src="images/spotifyweb2.png" width="375px" alt="Dit is de about page van de website">
+<img src="images/spotifyweb2.jpg" width="375px" alt="Dit is de "Premium" page van de website">
  
 </details>
  
