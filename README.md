@@ -287,6 +287,40 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ## Je website
+
+<details open>
+<summary>uitwerken voor kick-off werkgroep</summary>
+
+### Je opdracht:
+#### Ik ga de website van Spotify uitwerken, deze is in shopfy gemaakt en maakt het voor mij dus extra een uitdaging om het goed in html en css na te maken. Spotify is een muziek applicatie waarbij nummers gestreamed worden. Spotify maakt gebruik van meerdere abonnementen om altijd iets te kunnen vinden bij hun klanten.
+
+#### Screenshot(s) van de eerste pagina (small screen): 
+Home pagina van Spotify
+
+<img src="images/WebsiteLandingpage.png" width="375px" alt="Dit is de langing page van de website">
+
+#### Screenshot(s) van de tweede pagina (small screen):
+#### Contact pagina van finntheduck.com
+<img src="images/WebsiteAbout.png" width="375px" alt="Dit is de about page van de website">
+ 
+</details>
+ 
+ 
+ 
+ 
+ 
+ 
  ## Breakdownschets (week 6)
 
 <details>
