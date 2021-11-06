@@ -306,13 +306,13 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 #### Ik ga de website van Spotify uitwerken, deze is in shopfy gemaakt en maakt het voor mij dus extra een uitdaging om het goed in html en css na te maken. Spotify is een muziek applicatie waarbij nummers gestreamed worden. Spotify maakt gebruik van meerdere abonnementen om altijd iets te kunnen vinden bij hun klanten.
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Home pagina van Spotify
+Home pagina van Spotify, waar je een account kan maken en de spotify applicatie kan opstarten en downloaden.
 
-<img src="images/WebsiteLandingpage.png" width="375px" alt="Dit is de langing page van de website">
+<img src="images/spotifyweb1.png" width="375px" alt="Dit is de langing page van de website">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-#### Contact pagina van finntheduck.com
-<img src="images/WebsiteAbout.png" width="375px" alt="Dit is de about page van de website">
+#### Premium pagina van Spotify, waar alle soorten abonnementen van hun staan met beschrijving aan features en kosten.
+<img src="images/spotifyweb2.png" width="375px" alt="Dit is de about page van de website">
  
 </details>
  
