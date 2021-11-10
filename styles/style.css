@@ -160,8 +160,7 @@ nav a img {        /* stijling van de img in de a in de nav */
 
 @media only screen and (max-width: 768px) {    /* stijling van de class "nav-menu", die word hier gestijld maar buiten het scherm gezet */
     .nav-menu {
-        position: absolute;        /* zorgt ervoor dat de positie vast staat van dit item */
-        height: 100vh;
+        position: fixed;        /* zorgt ervoor dat de positie vast staat van dit item */
         right: -100%;            /* door right op -100% te zetten word hij buiten het scherm gezet, dit is zodat hij zo als hij active word met de transition vanaf rechts inschuift */
         top: 2.5em;
         flex-direction: column;    /* zorgt ervoor dat de items onder elkaar worden weergegeven */
@@ -169,7 +168,6 @@ nav a img {        /* stijling van de img in de a in de nav */
         width: 100%;
         text-align: center;
         transition: 0.3s;
-        justify-content: flex-start;
     }
 
     .nav-menu.active{        /* dit is de class "nav-menu" als hij "active" is, door right: 0; word hij nu dus laten zien op het scherm */
