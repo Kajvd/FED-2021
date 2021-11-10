@@ -351,11 +351,6 @@ Home pagina van Spotify, waar je een account kan maken en de spotify applicatie 
 ### Stand van zaken
 De eerste 2 dagen heb ik alle stof nog eens doorgenomen die online stond, ik heb geleerd wat je met flexbox kan doen en hoe je het goed kunt gebruiken. Verder heb ik vooral geprobeerd alles zo goed mogelijk te maken zoals op de echte Spotify website. Deze week heb ik ook aan Vasilis gevraagd of het mogelijk is om een feedback gesprek te houden de volgende week waar ik ga kijken of mijn "basis" code al goed genoeg is.
 
- <img src="images/instagram.png" width="375px" alt="">
-
-<img src="images/instagramcss.png" width="375px" alt="">
-
-
 </details>
  
  
@@ -381,9 +376,8 @@ Ik heb er voor geprobeerd te zorgen dat wanneer er over de button van een van de
  
  Ik heb hier veel naar gezocht en alles komt ongeveer neer op op wat er in de bovenstaande link word gezegd. Om een of andere reden wilt dit bij mij niet lukken, waardoor ik het heb laten vallen. 
 
- <img src="images/instagram.png" width="375px" alt="">
+ <img src="images/hover.png" width="375px" alt="hover state">
 
-<img src="images/instagramcss.png" width="375px" alt="">
 
  In de eerste week was dus al de eerste pagina zo goed als af, samen met de styling.
 
@@ -395,14 +389,12 @@ Ik heb er voor geprobeerd te zorgen dat wanneer er over de button van een van de
  ## Voortgang 1 (week 9)
 
 <details>
-<summary>...</summary>
+<summary>Active state toegevoegd</summary>
 
 ### Stand van zaken
-...
-
-
- In de eerste week was dus al de eerste pagina zo goed als af, samen met de styling.
-
+Deze week was ik zo goed als klaar, hier heb ik alleen nog een active state voor de pagina die gebruikt word toegevoegd zodat dit duidelijk is voor de gebruiker. Het zorgt ervoor daat hij weet waar hij zich bevind. 
+ 
+ <img src="images/active.png" width="375px" alt="active state"
 
 </details>
  
@@ -411,30 +403,50 @@ Ik heb er voor geprobeerd te zorgen dat wanneer er over de button van een van de
  ## Eindgesprek (week 10)
 
 <details>
-<summary>...</summary>
+<summary>Laatste dingetjes geupload in documentatie.</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Alles was hier al af, ik heb alleen de laatste dingetjes in de documentatie gezet die nog nodig waren. 
 
 ### Screenshot(s)
-
- <img src="images/websiteIphoneSE.png" width="375px" alt="IphoneSE">
-
  
- 
-  <img src="images/websiteIphonePlus.png" width="375px" alt="IphonePlus">
+  <img src="images/SpotifymainIphoneSE.png" width="375px" alt="IphoneSE">
 
  
  
-  <img src="images/websiteIpad.png" width="375px" alt="Ipad">
-
-
- 
-  <img src="images/websiteIpadPro.png" width="375px" alt="IpadPro">
+  <img src="images/SpotifymainIphonePlus.png" width="375px" alt="IphonePlus">
 
  
  
-  <img src="images/website.png" width="375px" alt="1920 x 1080">
+  <img src="images/SpotifymainIpad.png" width="375px" alt="Ipad">
+
+
+ 
+  <img src="images/SpotifymainIpadPro.png" width="375px" alt="IpadPro">
+
+ 
+ 
+  <img src="images/SpotifymainResponsive.png" width="375px" alt="1920 x 1080">
+ 
+ 
+
+ <img src="images/SpotifyIphoneSE.png" width="375px" alt="IphoneSE">
+
+ 
+ 
+  <img src="images/SpotifyIphonePlus.png" width="375px" alt="IphonePlus">
+
+ 
+ 
+  <img src="images/SpotifyIpad.png" width="375px" alt="Ipad">
+
+
+ 
+  <img src="images/SpotifyIpadPro.png" width="375px" alt="IpadPro">
+
+ 
+ 
+  <img src="images/SpotifyResponsive.png" width="375px" alt="1920 x 1080">
 
 </details>
  
@@ -459,5 +471,6 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 1. Carousel, deels van Frontend for Designers 
 2. Sidebar navigatie deels https://youtu.be/MxW0dv5W7Ds 
 3. Afbeeldingen - Finntheduck.com
+4. Afbeeldingen - Spotify.com
 
 </details>
