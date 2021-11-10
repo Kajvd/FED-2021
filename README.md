@@ -412,42 +412,44 @@ Alles was hier al af, ik heb alleen de laatste dingetjes in de documentatie geze
  
   <img src="images/SpotifymainIphoneSE.png" width="320" alt="IphoneSE">
 
- 
+ Iphone SE
  
   <img src="images/SpotifymainIphonePlus.png" width="375" alt="IphonePlus">
 
- 
+ IphonePlus
  
   <img src="images/SpotifymainIpad.png" width="768" alt="Ipad">
 
-
+Ipad
  
   <img src="images/SpotifymainIpadPro.png" width="1024" alt="IpadPro">
 
- 
+ Ipad pro
  
   <img src="images/SpotifymainResponsive.png" width="1920" alt="1920 x 1080">
  
- 
+ Desktop
 
  <img src="images/SpotifyIphoneSE.png" width="320" alt="IphoneSE">
 
- 
+ IphoneSE
  
   <img src="images/SpotifyIphonePlus.png" width="475" alt="IphonePlus">
 
- 
+ IphonePlus
  
   <img src="images/SpotifyIpad.png" width="768" alt="Ipad">
 
-
+Ipad
  
   <img src="images/SpotifyIpadPro.png" width="1024" alt="IpadPro">
 
- 
+ Ipad pro
  
   <img src="images/SpotifyResponsive.png" width="1920" alt="1920 x 1080">
 
+ Desktop
+ 
 </details>
  
  
