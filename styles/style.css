@@ -174,7 +174,31 @@ nav a img {        /* stijling van de img in de a in de nav */
 
     .nav-menu.active{        /* dit is de class "nav-menu" als hij "active" is, door right: 0; word hij nu dus laten zien op het scherm */
         right: 0;
+        height: 92%
 }
+    
+    @media screen and (min-width: 375px) {      /* dit is de class "nav-menu" als hij "active" is bij 375px breed */
+    .nav-menu.active {
+        height: 93%;
+    }
+}
+    
+    @media screen and (min-width: 414px) {      /* dit is de class "nav-menu" als hij "active" is bij 414px breed */
+    .nav-menu.active {
+        height: 94%;
+    }
+}
+    
+    @media screen and (min-width: 768px) {      /* dit is de class "nav-menu" als hij "active" is bij 768px breed */
+    .nav-menu.active {
+        height: 96%;
+    }
+}
+    
+    nav ul {        /* stijling van ul in de nav */
+        display: flex;
+        justify-content: center;
+    }
 
     nav ul li {            /* stijling van li in de ul in de nav */
         margin: 2.5em 0;
