@@ -394,7 +394,7 @@ Ik heb er voor geprobeerd te zorgen dat wanneer er over de button van een van de
 ### Stand van zaken
 Deze week was ik zo goed als klaar, hier heb ik alleen nog een active state voor de pagina die gebruikt word toegevoegd zodat dit duidelijk is voor de gebruiker. Het zorgt ervoor daat hij weet waar hij zich bevind. 
  
- <img src="images/active.png" width="375px" alt="active state"
+ <img src="images/active.png" width="375px" alt="active state">
 
 </details>
  
