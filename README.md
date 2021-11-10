@@ -410,43 +410,43 @@ Alles was hier al af, ik heb alleen de laatste dingetjes in de documentatie geze
 
 ### Screenshot(s)
  
-  <img src="images/SpotifymainIphoneSE.png" width="" alt="IphoneSE">
+  <img src="images/SpotifymainIphoneSE.png" width="320" alt="IphoneSE">
 
  
  
-  <img src="images/SpotifymainIphonePlus.png" width="" alt="IphonePlus">
+  <img src="images/SpotifymainIphonePlus.png" width="375" alt="IphonePlus">
 
  
  
-  <img src="images/SpotifymainIpad.png" width="" alt="Ipad">
+  <img src="images/SpotifymainIpad.png" width="768" alt="Ipad">
 
 
  
-  <img src="images/SpotifymainIpadPro.png" width="" alt="IpadPro">
+  <img src="images/SpotifymainIpadPro.png" width="1024" alt="IpadPro">
 
  
  
-  <img src="images/SpotifymainResponsive.png" width="" alt="1920 x 1080">
+  <img src="images/SpotifymainResponsive.png" width="1920" alt="1920 x 1080">
  
  
 
- <img src="images/SpotifyIphoneSE.png" width="" alt="IphoneSE">
+ <img src="images/SpotifyIphoneSE.png" width="320" alt="IphoneSE">
 
  
  
-  <img src="images/SpotifyIphonePlus.png" width="" alt="IphonePlus">
+  <img src="images/SpotifyIphonePlus.png" width="475" alt="IphonePlus">
 
  
  
-  <img src="images/SpotifyIpad.png" width="" alt="Ipad">
+  <img src="images/SpotifyIpad.png" width="768" alt="Ipad">
 
 
  
-  <img src="images/SpotifyIpadPro.png" width="" alt="IpadPro">
+  <img src="images/SpotifyIpadPro.png" width="1024" alt="IpadPro">
 
  
  
-  <img src="images/SpotifyResponsive.png" width="" alt="1920 x 1080">
+  <img src="images/SpotifyResponsive.png" width="1920" alt="1920 x 1080">
 
 </details>
  
