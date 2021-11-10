@@ -324,18 +324,14 @@ Home pagina van Spotify, waar je een account kan maken en de spotify applicatie 
  ## Breakdownschets (week 6)
 
 <details>
-<summary>...</summary>
+<summary>Breakdownschetsen</summary>
 
 ### de hele eerste pagina: 
-<img src="images/breakdownschetsv2.png" width="375px" alt="breakdown van de hele pagina">
+<img src="images/Breakpointspotify.png" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/breakdownschets2v2.png" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/Breakpointspotifypremium.png" width="375px" alt="breakdown van premium pagina">
 
-### wellicht nog een dynamisch deel (bijv filter): 
- 
- ### de hele tweede pagina: 
-<img src="images/breakdownschets3v2.png" width="375px" alt="breakdown van de hele pagina">
 
 </details>
 
